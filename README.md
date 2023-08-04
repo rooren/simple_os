@@ -1,2 +1,2 @@
-# simple_os
-writing my first OS using assembly and C 
+# Simple_os
+Writing my first OS using assembly and C 
